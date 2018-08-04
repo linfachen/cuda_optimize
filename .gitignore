@@ -6,5 +6,4 @@
 *.fatbin
 *.bin
 *.so 
-
-conv
+*.out
